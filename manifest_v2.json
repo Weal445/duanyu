@@ -1,0 +1,81 @@
+{
+  "item": {
+    "id": "com.k1al.phrasetrans",
+    "restype": "quick_app",
+    "name": "环间短语",
+    "description": "首款手环上的短语翻译软件\n内置磁力搜索 不输完也能一键补充\n键盘可以左右滑动\n不支持单词的搜索 仅支持短语\n\n词库量达6000+\n不止覆盖小初高所有短语\n腕上的翻译软件\n随身的翻译官\n\n环间短语 为您服务",
+    "preview": [
+      "media/13327.jpg",
+      "media/13326.jpg",
+      "media/13329.jpg"
+    ],
+    "icon": "media/13615.jpg",
+    "cover": "media/13686.jpg",
+    "author": [
+      {
+        "name": "Keal",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "获取激活码",
+      "url": "https://yun.txootd.cn/shop/KEAL",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-方屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-方屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-方屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-胶囊屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-胶囊屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-方屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-胶囊屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-胶囊屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-胶囊屏款-重新签名候选.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环间短语-方屏款-重新签名候选.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
